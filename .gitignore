@@ -8,3 +8,17 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Generated media and output data
+audio/*
+images/*
+output/*
+working/*
+
+# Keep folder structure visible in Git
+!audio/.gitkeep
+!images/.gitkeep
+!output/.gitkeep
+!output/logs/.gitkeep
+!output/Upload/.gitkeep
+!working/.gitkeep
