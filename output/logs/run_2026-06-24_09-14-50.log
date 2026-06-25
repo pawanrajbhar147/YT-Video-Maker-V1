@@ -1,0 +1,80 @@
+09:14:50  ============================================================
+09:14:50  RUN 2026-06-24 09:14:50
+09:14:50  ffmpeg: ffmpeg
+09:14:50  35 beats · voiceover 436.9s · transition=crossfade · zoom=True
+09:14:50  Pairing (beat: image  <-  audio  =  seconds):
+09:14:50    01: 001_001.jpg  <-  Generated Audio June 23, 2026 - 8_19PM.wav  =  13.36s
+09:14:50    02: 002_002.jpg  <-  Generated Audio June 23, 2026 - 8_20PM.wav  =  13.04s
+09:14:50    03: 003_003.jpg  <-  Generated Audio June 23, 2026 - 8_20PM (1).wav  =  18.08s
+09:14:50    04: 004_004.jpg  <-  Generated Audio June 23, 2026 - 8_21PM.wav  =  13.32s
+09:14:50    05: 005_005.jpg  <-  Generated Audio June 23, 2026 - 8_22PM.wav  =  14.04s
+09:14:50    06: 006_006.jpg  <-  Generated Audio June 23, 2026 - 8_22PM (1).wav  =  13.80s
+09:14:50    07: 007_007.jpg  <-  Generated Audio June 23, 2026 - 8_22PM (2).wav  =  13.20s
+09:14:50    08: 008_008.jpg  <-  Generated Audio June 23, 2026 - 8_23PM.wav  =  13.64s
+09:14:50    09: 009_009.jpg  <-  Generated Audio June 23, 2026 - 8_23PM (1).wav  =  14.84s
+09:14:50    10: 010_010.jpg  <-  Generated Audio June 23, 2026 - 8_23PM (2).wav  =  11.84s
+09:14:50    11: 011_011.jpg  <-  Generated Audio June 23, 2026 - 8_24PM.wav  =  9.24s
+09:14:50    12: 012_012.jpg  <-  Generated Audio June 23, 2026 - 8_24PM (1).wav  =  11.64s
+09:14:50    13: 013_013.jpg  <-  Generated Audio June 23, 2026 - 8_25PM.wav  =  13.36s
+09:14:50    14: 014_014.jpg  <-  Generated Audio June 23, 2026 - 8_25PM (1).wav  =  10.88s
+09:14:50    15: 015_015.jpg  <-  Generated Audio June 23, 2026 - 8_26PM.wav  =  13.32s
+09:14:50    16: 016_016.jpg  <-  Generated Audio June 23, 2026 - 8_26PM (1).wav  =  9.28s
+09:14:50    17: 017_017.jpg  <-  Generated Audio June 23, 2026 - 8_26PM (2).wav  =  7.40s
+09:14:50    18: 018_018.jpg  <-  Generated Audio June 23, 2026 - 8_27PM.wav  =  13.44s
+09:14:50    19: 019_019.jpg  <-  Generated Audio June 23, 2026 - 8_27PM (1).wav  =  12.76s
+09:14:50    20: 020_020.jpg  <-  Generated Audio June 23, 2026 - 8_27PM (2).wav  =  11.16s
+09:14:50    21: 021_021.jpg  <-  Generated Audio June 23, 2026 - 8_28PM.wav  =  11.76s
+09:14:50    22: 022_022.jpg  <-  Generated Audio June 23, 2026 - 8_29PM.wav  =  12.32s
+09:14:50    23: 023_023.jpg  <-  Generated Audio June 23, 2026 - 8_29PM (1).wav  =  9.32s
+09:14:50    24: 024_024.jpg  <-  Generated Audio June 23, 2026 - 8_30PM.wav  =  17.44s
+09:14:50    25: 025_025.jpg  <-  Generated Audio June 23, 2026 - 8_30PM (1).wav  =  13.00s
+09:14:50    26: 026_026.jpg  <-  Generated Audio June 23, 2026 - 8_31PM.wav  =  13.56s
+09:14:50    27: 027_027.jpg  <-  Generated Audio June 23, 2026 - 8_31PM (1).wav  =  13.08s
+09:14:50    28: 028_028.jpg  <-  Generated Audio June 23, 2026 - 8_35PM.wav  =  11.80s
+09:14:50    29: 029_029.jpg  <-  Generated Audio June 23, 2026 - 8_35PM (1).wav  =  10.92s
+09:14:50    30: 030_030.jpg  <-  Generated Audio June 23, 2026 - 8_36PM.wav  =  10.28s
+09:14:50    31: 031_031.jpg  <-  Generated Audio June 23, 2026 - 8_36PM (1).wav  =  12.92s
+09:14:50    32: 032_032.jpg  <-  Generated Audio June 23, 2026 - 8_37PM.wav  =  11.72s
+09:14:50    33: 033_033.jpg  <-  Generated Audio June 23, 2026 - 8_37PM (1).wav  =  10.84s
+09:14:50    34: 034_034.jpg  <-  Generated Audio June 23, 2026 - 8_37PM (2).wav  =  12.52s
+09:14:50    35: 035_035.jpg  <-  Generated Audio June 23, 2026 - 8_38PM.wav  =  13.80s
+09:14:52  FFMPEG FAILED:
+fault
+  Stream #13:0 (mjpeg) -> scale:default
+  Stream #14:0 (mjpeg) -> scale:default
+  Stream #15:0 (mjpeg) -> scale:default
+  Stream #16:0 (mjpeg) -> scale:default
+  Stream #17:0 (mjpeg) -> scale:default
+  Stream #18:0 (mjpeg) -> scale:default
+  Stream #19:0 (mjpeg) -> scale:default
+  Stream #20:0 (mjpeg) -> scale:default
+  Stream #21:0 (mjpeg) -> scale:default
+  Stream #22:0 (mjpeg) -> scale:default
+  Stream #23:0 (mjpeg) -> scale:default
+  Stream #24:0 (mjpeg) -> scale:default
+  Stream #25:0 (mjpeg) -> scale:default
+  Stream #26:0 (mjpeg) -> scale:default
+  Stream #27:0 (mjpeg) -> scale:default
+  Stream #28:0 (mjpeg) -> scale:default
+  Stream #29:0 (mjpeg) -> scale:default
+  Stream #30:0 (mjpeg) -> scale:default
+  Stream #31:0 (mjpeg) -> scale:default
+  Stream #32:0 (mjpeg) -> scale:default
+  Stream #33:0 (mjpeg) -> scale:default
+  Stream #34:0 (mjpeg) -> scale:default
+  xfade:default -> Stream #0:0 (libx264)
+  Stream #35:0 -> #0:1 (pcm_s16le (native) -> aac (native))
+Press [q] to stop, [?] for help
+[Parsed_crop_3 @ 00000198dcc08080] Error when evaluating the expression 'ih/(1.0-(1.0-1.0)*t/15.260)'
+[Parsed_crop_3 @ 00000198dcc08080] Failed to configure input pad on Parsed_crop_3
+[fc#0 @ 00000198d7ef83c0] Error reinitializing filters!
+[fc#0 @ 00000198d7ef83c0] Task finished with error code: -22 (Invalid argument)
+[fc#0 @ 00000198d7ef83c0] Terminating thread with return code -22 (Invalid argument)
+[vost#0:0/libx264 @ 00000198dbc3e840] [enc:libx264 @ 00000198d9f6b6c0] Could not open encoder before EOF
+[vost#0:0/libx264 @ 00000198dbc3e840] Task finished with error code: -22 (Invalid argument)
+[vost#0:0/libx264 @ 00000198dbc3e840] Terminating thread with return code -22 (Invalid argument)
+[out#0/mp4 @ 00000198e2b8fd80] Nothing was written into output file, because at least one of its streams received no packets.
+frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A elapsed=0:00:00.69    
+[aac @ 00000198d9995080] Qavg: 303.287
+Conversion failed!
+
